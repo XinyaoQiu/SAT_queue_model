@@ -12,6 +12,7 @@ def main(args):
         "runway2": [(29.525458, -98.468694), (29.526207, -98.469913), (29.523821, -98.472556), (29.522807, -98.470954)],
     }
 
+    # time periods can add any time pairs as long as they don't include lost tables.
     time_periods = [
         ("2023-12-07 04", "2023-12-15 04"),
     ]
